@@ -83,9 +83,13 @@ Wind:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_wind.png)
 Snow:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_snow.png)
+The snow map was interesting in that it was mostly clustered in place where it snows so I decided to dive a little deeper. 
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_states.png)
+I looked at accidents involving snow across all the states and found that for the most part the higher rates were in the states that get more snow. But I really wanted to know if some of the states that don't get as much snow got into a lot of accidents when it did snow as I predict that they would be poorly equipped to handle the conditions. Thus I normalized the snow accident rates against how many days it snows yearly on average for each state.
+
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_norm.png)
+The resulting graph had very different results that backed up my theory that those states that don't receive a lot of know have a higher accident rate than those that are more used to the snow.
 Rain:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_rain.png)
 
