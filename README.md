@@ -1,6 +1,6 @@
 ![](https://imagevars.gulfnews.com/2019/10/24/accident-sign_16dfd47e1da_medium.jpg)
 # United States Accidents: A Look Into Countrywide Traffic Accidents
-## Traffic Accidents
+More than 38,000 people die yearly in crashes throughout the roadways of the United States; the fatality rate is 12.4 deaths for every 100,000 people. On top of this an additional 4.4 million get injured to the point that they require some sort of medical attention. Road crashes are the leading cause of death for inhabitants of the United States ages 1-54 and the socioeconomic impact of these crashes costs citizens about $871 billion.  
 ## Data Source
 ## Data Preparation
 ## Data Analysis
