@@ -25,11 +25,15 @@ Nevertheless I couldn't glean anything extraordinary from this map other than no
 I divided my data to look at accidents involving different weather conditions, traffic signaling devices, and time of day and created bar graphs to show the distribution of accidents occuring under these scenarios.
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_counts.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_time.png" width="200" height="300">
-I expected to see the highest counts for weather as clear or cloudy since on average that would be the most common weather condition.  The highest counts for signal devices I predicted to be traffic signals since that would be where most cars would congregate into a stop. And since the majority of people drive during the day I expected to see most accidents occurring at daytime. 
+
+I expected to see the highest counts for weather as clear or cloudy since on average that would be the most common weather condition.  The highest counts for signal devices I predicted to be traffic signals since that would be where most cars would congregate into a stop. And since the majority of people drive during the day I expected to see most accidents occurring at daytime. Since the first few graphs did not show anything out of the norm I decided to look at the average severity of these scenarios.
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_traffic.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_time.png" width="200" height="300">
 
+The dataset defines severity on how much of an impact the accident had on traffic (scale of 1-4). Thus I expected to see snow and freezing as top candidates for weather conditions and junctions being the leading device on these severity charts. However, with the time of day graph, I expected to see daytime severity as higher than night since there would not be a lot of traffic at nighttime. I predict this finding has to do with nighttime accidents not receiving the same kind of attention and therefore would take longer to clear.
+
 ### Statistically Different?
+I had these severity averages that were all seemingly different but were somewhat close to each other. So I decided to perform statistical tests on each and compare them to the average severity of the entire data.
 
 ``` snow p-value:0.000 t-value:38.782
 rain p-value:0.000 t-value:42.230
@@ -55,6 +59,8 @@ Stop p-value:0.000 t-value:-117.353
 
 Comparing Nighttime and Daytime t-score:63.7, p-value:0.000 
 ```
+The chances all (except for the cloudy weather severities) of these severities occurring by chance was close to 0. Therefore these were statistically different from each other despite it being a small difference.
+
 ### Lowest and Highest Severity
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_high.png" width="450" height="300">
 
