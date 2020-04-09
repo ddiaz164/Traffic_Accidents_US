@@ -47,4 +47,4 @@ Comparing Nighttime and Daytime t-score:63.7, p-value:0.000
 ### Lowest and Highest Severity
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_low.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_high.png" width="350" height="200">
 
-<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="475" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="475" height="300">
+<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="460" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="460" height="300">
