@@ -60,7 +60,8 @@ Comparing Nighttime and Daytime t-score:63.7, p-value:0.000
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_snow.png)
 
-<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/snow_states.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/snow_norm.png" width="450" height="300">
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_states.png)
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_norm.png)
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_rain.png)
 
