@@ -6,6 +6,6 @@
 ## Data Analysis
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png)
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_rates.png)
-![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_sc.png)
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/image.png)
+<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/heat_sc.png" width="450" height="400">
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png" width="450" height="450">
