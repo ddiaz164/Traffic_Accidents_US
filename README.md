@@ -73,3 +73,9 @@ Fog:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_counts.png)
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_accident_rate.png)
 
+### South Carolina
+
+### Future Steps
+
+### Data Sources
+[Database](https://www.kaggle.com/sobhanmoosavi/us-accidents)
