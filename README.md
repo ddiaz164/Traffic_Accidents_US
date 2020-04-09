@@ -12,4 +12,4 @@
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/heat_sc.png" width="450" height="400">
 
-<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_cond.png" width="300" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_counts.png" width="300" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_time.png" width="200" height="300">
+<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_counts.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_time.png" width="200" height="300">
