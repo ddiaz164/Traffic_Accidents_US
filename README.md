@@ -12,10 +12,12 @@ Having loaded the data into a pandas dataframe and cleaning it up for analysis, 
 Initially not only did the map resulting from the accident counts per state mostly resemble a map of the population per state, but most of the information was overshadowed by the density of accidents in California. I knew I wanted to change this data, and though I thought of log-scaling it to get a better distribution, I decided to instead normalize it by the number of cars registered to each state.
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_rates.png)
 This second map was still somewhat like a map of the population would be but the distribution of accidents across the nation was a lot more apparent. There was, however, one state that was very much a standout: South Carolina. 
+
 Looking at the different accident rates it was almost doubling the next highest state!
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/image.png)
 I decided to create a heat map to further zoom in and see if there was anything special going on.
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/heat_sc.png" width="450" height="400">
+
 Nevertheless I couldn't glean anything extraordinary from this map other than noting that there were a lot of accidents occurring around major cities-- as one would expect. I hypothesized some other factors were contributing to having such a large accident rate but in order to get to that I had to first explore those factors on a larger scale. I decided to come back to South Carolina once I had a clearer picture on what contributed to these accidents.
 ### Accidents Across Weather Conditions, Traffic Signaling Devices, and Time of Day
 
