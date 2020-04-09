@@ -30,7 +30,7 @@ I expected to see the highest counts for weather as clear or cloudy since on ave
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_traffic.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_time.png" width="200" height="300">
 
-The dataset defines severity on how much of an impact the accident had on traffic (scale of 1-4). Thus I expected to see snow and freezing as top candidates for weather conditions and junctions being the leading device on these severity charts. However, with the time of day graph, I expected to see daytime severity as higher than night since there would not be a lot of traffic at nighttime. I predict this finding has to do with nighttime accidents not receiving the same kind of attention and therefore would take longer to clear.
+The dataset defines severity as how much of an impact the accident had on traffic (scale of 1-4). Thus I expected to see snow and freezing as top candidates for weather conditions and junctions being the leading device on these severity charts. However, with the time of day graph, I expected to see daytime severity as higher than night since there would not be a lot of traffic at nighttime. I predict this finding has to do with nighttime accidents not receiving the same kind of attention and therefore would take longer to clear.
 
 ### Statistically Different?
 I had these severity averages that were all seemingly different but were somewhat close to each other. So I decided to perform statistical tests on each and compare them to the average severity of the entire data.
@@ -59,16 +59,21 @@ Stop p-value:0.000 t-value:-117.353
 
 Comparing Nighttime and Daytime t-score:63.7, p-value:0.000 
 ```
-The chances all (except for the cloudy weather severities) of these severities occurring by chance was close to 0. Therefore these were statistically different from each other despite it being a small difference.
+The chances all but one of these severities occurring by chance was close to 0. Therefore these were statistically different from each other despite it being a small difference.
 
 ### Lowest and Highest Severity
+Now knowing that the difference in severity between these was statistically significant I decided to zoom in on those with the lowest and highest severities.
+
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_high.png" width="450" height="300">
+The low severity traffic signal devices had high rates for no exit and stop signs which makes sense seeing as these signals are in areas with very little traffic. Similarly the high severity devices showed junction and give way as having the highest rates since an accident on these would mean multiple lanes would be blocked rather than just one.
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="450" height="300">
+As for weather conditions, the low severity chart had clear on top. But the high severity chart illustrated that, for the highest impact on traffic, the weather condition with the highest accident rate was wind which was not even present on any low severity accidents. These findings got me thinking about how the accident distribution of these weather conditions would look across the United States.
 
 ### Weather Condition Accident Distributions Across the Country
+I decided to create heat maps of each of the weather conditions to get a better look at how they were distributed across the country.
 Freezing:
-![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
+![Freezing](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
 Dust:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
 Smoke:
