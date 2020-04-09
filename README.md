@@ -22,7 +22,7 @@ Through exploration of available data on accidents occuring in the United States
 
 ### Statistically Different?
 
-snow p-value:0.000 t-value:38.782
+``` snow p-value:0.000 t-value:38.782
 rain p-value:0.000 t-value:42.230
 fog p-value:0.000 t-value:-25.022
 wind p-value:0.825 t-value:-0.222
