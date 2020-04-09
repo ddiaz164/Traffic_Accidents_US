@@ -50,7 +50,7 @@ Comparing Nighttime and Daytime t-score:63.7, p-value:0.000
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="450" height="300">
 
 ### Weather Condition Accident Distributions Across the Country
-Snow:
+Freezing:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
 Dust:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
