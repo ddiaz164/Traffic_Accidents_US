@@ -15,7 +15,9 @@ This second map was still somewhat like a map of the population would be but the
 
 Looking at the different accident rates it was almost doubling the next highest state!
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/image.png)
+
 I decided to create a heat map to further zoom in and see if there was anything special going on.
+
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/heat_sc.png" width="450" height="400">
 
 Nevertheless I couldn't glean anything extraordinary from this map other than noting that there were a lot of accidents occurring around major cities-- as one would expect. I hypothesized some other factors were contributing to having such a large accident rate but in order to get to that I had to first explore those factors on a larger scale. I decided to come back to South Carolina once I had a clearer picture on what contributed to these accidents.
