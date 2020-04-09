@@ -71,9 +71,9 @@ The low severity traffic signal devices had high rates for no exit and stop sign
 As for weather conditions, the low severity chart had clear on top. But the high severity chart illustrated that, for the highest impact on traffic, the weather condition with the highest accident rate was wind which was not even present on any low severity accidents. These findings got me thinking about how the accident distribution of these weather conditions would look across the United States.
 
 ### Weather Condition Accident Distributions Across the Country
-I decided to create heat maps of each of the weather conditions to get a better look at how they were distributed across the country.
+I decided to create heat maps of each of the weather conditions to get a better look at how these accidents were distributed across the country.
 Freezing:
-![Freezing](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
+![Freezing](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png "Freezing")
 Dust:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
 Smoke:
