@@ -50,19 +50,26 @@ Comparing Nighttime and Daytime t-score:63.7, p-value:0.000
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="450" height="300">
 
 ### Weather Condition Accident Distributions Across the Country
+Snow:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
-
+Dust:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
-
+Smoke:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_smoke.png)
-
+Wind:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_wind.png)
-
+Snow:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_snow.png)
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_states.png)
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/snow_norm.png)
-
+Rain:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_rain.png)
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/rain_counts.png)
+Fog:
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_fog.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_counts.png)
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_accident_rate.png)
+
