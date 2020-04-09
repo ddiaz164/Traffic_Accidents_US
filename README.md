@@ -78,4 +78,6 @@ Fog:
 ### Future Steps
 
 ### Data Sources
-[Database](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+[Kaggle Database](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+[Car Data](https://www.statista.com/statistics/196010/total-number-of-registered-automobiles-in-the-us-by-state/)
+[Snow Data](http://www.usa.com/rank/us--average-snow-days--state-rank.htm)
