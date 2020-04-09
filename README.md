@@ -4,6 +4,7 @@ More than 38,000 people die yearly in crashes throughout the roadways of the Uni
 ## Data Source
 Through exploration of available data on accidents occuring in the United States I found one particular dataset on Kaggle that had plenty to look through. Sobhan Moosavi's "US Accidents (3.0 million records)" really stood out in that it contained voluminous information on the topic. The database had entries starting February of 2016 and the last of them were as recent as December of 2019. And as his title claimed-- it possesses 3 million entries each containing 49 columns worth of information.
 ## Data Preparation
+As previously mentioned, this dataset was very large and thus I figured it would prove troublesome to handle at first. Since some places have restrictions on the size of the files you can upload, I stored the data into an AWS S3 bucket so that I could then access it from anywhere. I imported boto3 and pandas so that I could bring the data into a notebook to further analyze and discarded any of the entries containing too many null values.
 ## Data Analysis
 ### Initial Look
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png)
