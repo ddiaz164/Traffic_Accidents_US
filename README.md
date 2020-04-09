@@ -1,4 +1,5 @@
-!["Choropleth Map of Car Accidents by State"](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png){:height="700px" width="400px"}
-!["Choropleth Map of Car Accidents per Car by State"](images/choro_rates.png)
-!["Heat Map of Car Accidents in South Carolina"](images/heat_sc.png)
-!["Car Accident Rates by State (Top 4)"](images/image.png)
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png)
+![](images/choro_rates.png)
+![](images/heat_sc.png)
+![](images/image.png)
+<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/choro_map.png" width="100" height="100">
