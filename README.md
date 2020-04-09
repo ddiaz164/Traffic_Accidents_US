@@ -114,7 +114,7 @@ I decided to do a little bit of research into South Carolina and found that they
 ### Future Steps
 - Use the data to predict the chances of getting into an accident based on a set of conditions.
 - Find safest and most dangerous driving conditions to aid those planning on road trips.
-- Determine which traffic signal devices are best working to prevent accidents so that they can be implemented more numerously.
+- Determine which traffic signal devices are best working to prevent accidents so that they can be more numerously implemented.
 ### Data Sources
 [Kaggle Database](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 
