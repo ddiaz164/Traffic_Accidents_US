@@ -16,3 +16,4 @@
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_traffic.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_time.png" width="200" height="300">
 
+### Statistically Different?
