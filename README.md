@@ -73,7 +73,7 @@ As for weather conditions, the low severity chart had clear on top. But the high
 ### Weather Condition Accident Distributions Across the Country
 I decided to create heat maps of each of the weather conditions to get a better look at how these accidents were distributed across the country.
 Freezing:
-![Freezing](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png "Freezing")
+!["Freezing"](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
 Dust:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
 Smoke:
