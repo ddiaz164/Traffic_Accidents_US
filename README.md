@@ -48,3 +48,20 @@ Comparing Nighttime and Daytime t-score:63.7, p-value:0.000
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_high.png" width="450" height="300">
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/cond_high.png" width="450" height="300">
+
+### Weather Condition Accident Distributions Across the Country
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_freezing.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_dust.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_smoke.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_wind.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_snow.png)
+
+<img src="https://github.com/ddiaz164/capstone_1/blob/master/images/snow_states.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/snow_norm.png" width="450" height="300">
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_rain.png)
+
+![](https://github.com/ddiaz164/capstone_1/blob/master/images/rain_counts.png)
