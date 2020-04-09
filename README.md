@@ -110,9 +110,11 @@ South Carolina had almost as many fog accidents as the higher population states!
 I normalized the data once more to account for the number of cars registered to every state and found that South Carolina had almost three times the rate as the second highest state.
 
 ### South Carolina
-I did a little bit of research into South Carolina and found that they don't get very many fog days per year (10-20 fog days) but whenever they do get fog it tends to be very dense. These conditions, however, are not uncommon among some of the other states and thus I predict the fog accidents might be better explained by how the residents from South Carolina drive in the fog rather than how much fog is present.
+I decided to do a little bit of research into South Carolina and found that they don't get very many fog days per year (10-20 fog days) but whenever they do get fog it tends to be very dense. These conditions, however, are not uncommon among some of the other states and thus I predict the fog accidents might be better explained by how the residents from South Carolina drive in the fog rather than how much fog is present.
 ### Future Steps
-
+- Use the data to predict the chances of getting into an accident based on a set of conditions.
+- Find safest and most dangerous driving conditions to aid those planning on road trips.
+- Determine which traffic signal devices are best working to prevent accidents so that they can be implemented more numerously.
 ### Data Sources
 [Kaggle Database](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 
