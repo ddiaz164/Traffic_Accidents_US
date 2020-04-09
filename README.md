@@ -97,20 +97,20 @@ Rain:
 I initially wanted to look into rain in the same manner as I did with snow but after seeing the map I noticed how aggregated it was in South Carolina and thought I might've found my contributing factor. 
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/rain_counts.png)
-However, after plotting the accidents involving rain for each state, although it was relatively high for South Carolina it wouldn't explain the rate being so much higher for them so I decided to keep looking.
+However after plotting the accidents involving rain for each state, although it was relatively high for South Carolina, it wouldn't explain the rate being so much higher for them so I decided to keep looking.
 
 Fog:
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/heat_fog.png)
 The fog map illustrated exactly what I was looking for: a higher distribution of accidents in South Carolina relative to the other states. I decided to plot it the same way as I did with rain.
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_counts.png)
-South Carolina had almost as many fog accidents as the higher population states! 
+South Carolina had almost as many fog accidents as the higher population states!
 
 ![](https://github.com/ddiaz164/capstone_1/blob/master/images/fog_accident_rate.png)
-I normalized the data once more to account for the number of cars registered to every state and found that South Carolina had almost three times the rate as the second highest state!
+I normalized the data once more to account for the number of cars registered to every state and found that South Carolina had almost three times the rate as the second highest state.
 
 ### South Carolina
-
+I did a little bit of research into South Carolina and found that they don't get very many fog days per year (10-20 fog days) but whenever they do get fog it tends to be very dense. These conditions, however, are not uncommon among some of the other states and thus I predict the fog accidents might be better explained by how the residents from South Carolina drive in the fog rather than how much fog is present.
 ### Future Steps
 
 ### Data Sources
