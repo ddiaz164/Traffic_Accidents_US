@@ -44,7 +44,8 @@ Crossing p-value:0.000 t-value:-242.410
 Bump p-value:0.000 t-value:-9.184
 Stop p-value:0.000 t-value:-117.353
 
-Comparing Nighttime and Daytime t-score:63.7, p-value:0.000 ```
+Comparing Nighttime and Daytime t-score:63.7, p-value:0.000 
+```
 ### Lowest and Highest Severity
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_low.png" width="450" height="300"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_high.png" width="450" height="300">
 
