@@ -22,8 +22,10 @@ I decided to create a heat map to further zoom in and see if there was anything 
 
 Nevertheless I couldn't glean anything extraordinary from this map other than noting that there were a lot of accidents occurring around major cities-- as one would expect. I hypothesized some other factors were contributing to having such a large accident rate but in order to get to that I had to first explore those factors on a larger scale. I decided to come back to South Carolina once I had a clearer picture on what contributed to these accidents.
 ### Accidents Across Weather Conditions, Traffic Signaling Devices, and Time of Day
+I divided my data to look at accidents involving different weather conditions, traffic signaling devices, and time of day and created bar graphs to show the distribution of accidents occuring under these scenarios.
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/traffic_counts.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/count_time.png" width="200" height="300">
+I expected to see the highest counts for weather as clear or cloudy since on average that would be the most common weather condition.  The highest counts for signal devices I predicted to be traffic signals since that would be where most cars would congregate into a stop. And since the majority of people drive during the day I expected to see most accidents occurring at daytime. 
 
 <img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_cond.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_traffic.png" width="350" height="200"><img src="https://github.com/ddiaz164/capstone_1/blob/master/images/sev_time.png" width="200" height="300">
 
